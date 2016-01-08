@@ -43,3 +43,4 @@ Collate:
     'makeExamples.R'
     'Timeline.R'
     'Uvcharts.R'
+    'Highstock.R'
